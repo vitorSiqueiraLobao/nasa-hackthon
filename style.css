@@ -2,7 +2,10 @@ body {
    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
    align-items: center;
  }
- 
+ iframe{
+    height:60%;
+    width: 24%;
+ }
  #chartdiv {
     margin-top: 3%;
    width: 100%;
@@ -17,4 +20,14 @@ h1{
     height: 5%;
     width: 1%;
  }
- 
+.graficos{
+   display: flex;
+   justify-content: space-around;
+   height: 100%;
+}
+iframe{
+   display: block;
+   width: 100%;
+   border: none;
+   height: 100%;
+}

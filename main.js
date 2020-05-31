@@ -52,7 +52,6 @@ $.getJSON('dados_agoracertos.json',function(data){
       if(a>b)return 1
       return 0
    })
-   
 
    nomes = [ ...new Set(nomes)]
   
@@ -102,10 +101,7 @@ let desenhaCasos = (nomes,data) =>{
    
    polygonSeries.data = vetorPaises
    polygonTemplate.propertyFields.fill = 'fill';
-
-
-
-   
+   getMaiorValor(data)
    //return vetorPaises
 }
 
@@ -148,7 +144,7 @@ let returnColor = (data) => {
 }
 
 }
-$.getJSON('dadoscertoscertos.json').then(()=>{
+$.getJSON('dados_agoracertos.json').then(()=>{
    loadScreen()
 })
 
@@ -165,21 +161,42 @@ hs.properties.fill = am4core.color("rgba(0,0,255,0.5)");
 chart.backgroundSeries.mapPolygons.template.polygon.fill = am4core.color("#aadaff");
 chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 
+let getMaiorValor = (data) => {
+   let maior = 0;
+   data.forEach((d)=>{
+      if(d.Sanitation > maior){
+         maior = d.Sanitation
+      }
+   })
+   console.log(maior)
+}
+
+//mortes 101616
+//confirmed 1721753
+//recovered 399991
+//sanitation 100
 
 let update = () =>{
    let select = $("select").val()
    let tituloLegenda = document.querySelector("h1")
+   let legendaDg = document.querySelector("p")
+
    let dg = document.querySelector(".dg")
    console.log(select == "Recovered")
    if(select == 'Deaths'){
       dg.style.background = 'linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 100%)'
+      legendaDg.textContent = "10k"
    }else if(select == "Confirmed"){
       dg.style.background = 'linear-gradient(180deg, rgba(255,0,255,1) 0%, rgba(255,255,255,1) 100%)'
+      legendaDg.textContent = "100k"
    }else if(select == "Recovered"){
       dg.style.background = 'linear-gradient(180deg, rgba(0,255,0,1) 0%, rgba(255,255,255,1) 100%)'
+      legendaDg.textContent = "50k"
    }else{
       dg.style.background = 'linear-gradient(180deg, rgba(255,143,0,1) 0%, rgba(255,255,255,1) 100%)'
+      legendaDg.textContent = "100%"
    }
    tituloLegenda.innerHTML = select
+
    loadScreen()
 }

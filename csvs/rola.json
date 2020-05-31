@@ -1,270 +1,0 @@
-[
-{"Country Code":"ABW","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Aruba","field6":""},
-{"Country Code":"AFG","Region":"South Asia","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Afghanistan","field6":""},
-{"Country Code":"AGO","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Angola","field6":""},
-{"Country Code":"ALB","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Albania","field6":""},
-{"Country Code":"AND","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Andorra","field6":""},
-{"Country Code":"ARB","Region":"","IncomeGroup":"","SpecialNotes":"Arab World aggregate. Arab World is composed of members of the League of Arab States.","TableName":"Arab World","field6":""},
-{"Country Code":"ARE","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"United Arab Emirates","field6":""},
-{"Country Code":"ARG","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Argentina","field6":""},
-{"Country Code":"ARM","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Armenia","field6":""},
-{"Country Code":"ASM","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"American Samoa","field6":""},
-{"Country Code":"ATG","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Antigua and Barbuda","field6":""},
-{"Country Code":"AUS","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Australia","field6":""},
-{"Country Code":"AUT","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 13.7603 Austrian schilling. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Austria","field6":""},
-{"Country Code":"AZE","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Azerbaijan","field6":""},
-{"Country Code":"BDI","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Burundi","field6":""},
-{"Country Code":"BEL","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Belgian franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Belgium","field6":""},
-{"Country Code":"BEN","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Benin","field6":""},
-{"Country Code":"BFA","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Burkina Faso","field6":""},
-{"Country Code":"BGD","Region":"South Asia","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Bangladesh","field6":""},
-{"Country Code":"BGR","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Bulgaria","field6":""},
-{"Country Code":"BHR","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Bahrain","field6":""},
-{"Country Code":"BHS","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Bahamas, The","field6":""},
-{"Country Code":"BIH","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Bosnia and Herzegovina","field6":""},
-{"Country Code":"BLR","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"Data before 2015 were adjusted to reflect the new denomination effective from July 1, 2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)","TableName":"Belarus","field6":""}
-,
-{"Country Code":"BLZ","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Belize","field6":""},
-{"Country Code":"BMU","Region":"North America","IncomeGroup":"High income","SpecialNotes":"","TableName":"Bermuda","field6":""},
-{"Country Code":"BOL","Region":"Latin America & Caribbean","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Bolivia","field6":""},
-{"Country Code":"BRA","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Brazil","field6":""},
-{"Country Code":"BRB","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Barbados","field6":""},
-{"Country Code":"BRN","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"Brunei Darussalam","field6":""},
-{"Country Code":"BTN","Region":"South Asia","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Bhutan","field6":""},
-{"Country Code":"BWA","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Botswana","field6":""},
-{"Country Code":"CAF","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Central African Republic","field6":""},
-{"Country Code":"CAN","Region":"North America","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"Canada","field6":""},
-{"Country Code":"CEB","Region":"","IncomeGroup":"","SpecialNotes":"Central Europe and the Baltics aggregate.","TableName":"Central Europe and the Baltics","field6":""},
-{"Country Code":"CHE","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Switzerland","field6":""},
-{"Country Code":"CHI","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Channel Islands","field6":""},
-{"Country Code":"CHL","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Chile","field6":""},
-{"Country Code":"CHN","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong; and on 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China.","TableName":"China","field6":""},
-{"Country Code":"CIV","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Côte d'Ivoire","field6":""}
-,
-{"Country Code":"CMR","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Cameroon","field6":""},
-{"Country Code":"COD","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Congo, Dem. Rep.","field6":""},
-{"Country Code":"COG","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Congo, Rep.","field6":""},
-{"Country Code":"COL","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Colombia","field6":""},
-{"Country Code":"COM","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Comoros","field6":""},
-{"Country Code":"CPV","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Cabo Verde","field6":""},
-{"Country Code":"CRI","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Costa Rica","field6":""},
-{"Country Code":"CSS","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Caribbean small states","field6":""},
-{"Country Code":"CUB","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Cuba","field6":""},
-{"Country Code":"CUW","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Curaçao","field6":""}
-,
-{"Country Code":"CYM","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Cayman Islands","field6":""},
-{"Country Code":"CYP","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.585274 Cyprus pounds. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Cyprus","field6":""},
-{"Country Code":"CZE","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Czech Republic","field6":""},
-{"Country Code":"DEU","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Germany","field6":""},
-{"Country Code":"DJI","Region":"Middle East & North Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Djibouti","field6":""},
-{"Country Code":"DMA","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Dominica","field6":""},
-{"Country Code":"DNK","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Denmark","field6":""},
-{"Country Code":"DOM","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Dominican Republic","field6":""},
-{"Country Code":"DZA","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Algeria","field6":""},
-{"Country Code":"EAP","Region":"","IncomeGroup":"","SpecialNotes":"East Asia and Pacific regional aggregate (does not include high-income economies).","TableName":"East Asia & Pacific (excluding high income)","field6":""},
-{"Country Code":"EAR","Region":"","IncomeGroup":"","SpecialNotes":"Early-dividend countries are mostly lower-middle-income countries further along the fertility transition. Fertility rates have fallen below four births per woman and the working-age share of the population is likely rising considerably.","TableName":"Early-demographic dividend","field6":""},
-{"Country Code":"EAS","Region":"","IncomeGroup":"","SpecialNotes":"East Asia and Pacific regional aggregate (includes all income levels).","TableName":"East Asia & Pacific","field6":""},
-{"Country Code":"ECA","Region":"","IncomeGroup":"","SpecialNotes":"Europe and Central Asia regional aggregate (does not include high-income economies).","TableName":"Europe & Central Asia (excluding high income)","field6":""},
-{"Country Code":"ECS","Region":"","IncomeGroup":"","SpecialNotes":"Europe and Central Asia regional aggregate (includes all income levels).","TableName":"Europe & Central Asia","field6":""},
-{"Country Code":"ECU","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Ecuador","field6":""},
-{"Country Code":"EGY","Region":"Middle East & North Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Egypt, Arab Rep.","field6":""},
-{"Country Code":"EMU","Region":"","IncomeGroup":"","SpecialNotes":"Euro area aggregate.","TableName":"Euro area","field6":""},
-{"Country Code":"ERI","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Eritrea","field6":""},
-{"Country Code":"ESP","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 166.386 Spanish peseta. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Spain","field6":""},
-{"Country Code":"EST","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"The following irrevocable euro conversion rate entered into force on January 1, 2011: 1 euro = 15.6466 Estonian kroon. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Estonia","field6":""},
-{"Country Code":"ETH","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"Fiscal year end: July 7; reporting period for national accounts data: FY.","TableName":"Ethiopia","field6":""},
-{"Country Code":"EUU","Region":"","IncomeGroup":"","SpecialNotes":"European Union aggregate.","TableName":"European Union","field6":""},
-{"Country Code":"FCS","Region":"","IncomeGroup":"","SpecialNotes":"Fragile and conflict-affected situations aggregate. \n\nCountries are distinguished based on the nature and severity of issues they face. The classification uses the following categories:\n- Countries with high levels of institutional and social fragility, identified based on publicly available indicators that measure the quality of policy and institutions and manifestations of fragility.\n- Countries affected by violent conflict, identified based on a threshold number of conflict-related deaths relative to the population. This category includes two sub-categories based on the intensity of violence: countries in high-intensity conflict and countries in medium-intensity conflict.\n\nFor more information, please visit https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations.","TableName":"Fragile and conflict affected situations","field6":""},
-{"Country Code":"FIN","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 5.94573 Finnish markka. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Finland","field6":""},
-{"Country Code":"FJI","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Fiji","field6":""},
-{"Country Code":"FRA","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 6.55957 French franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"France","field6":""},
-{"Country Code":"FRO","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Faroe Islands","field6":""},
-{"Country Code":"FSM","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year ends on September 30; reporting period for national accounts data: FY. Based on the Pacific and Virgin Islands Training Initiative, national accounts data have been revised.","TableName":"Micronesia, Fed. Sts.","field6":""},
-{"Country Code":"GAB","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Gabon","field6":""},
-{"Country Code":"GBR","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"United Kingdom","field6":""},
-{"Country Code":"GEO","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"Includes self-governed areas only, which mostly exclude Abkhazia and South Ossetia, but small areas in Abkhazia and South Ossetia are included before 2008 or 2009 because of the changes in self-governed areas.","TableName":"Georgia","field6":""},
-{"Country Code":"GHA","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Ghana","field6":""},
-{"Country Code":"GIB","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Gibraltar","field6":""},
-{"Country Code":"GIN","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Guinea","field6":""},
-{"Country Code":"GMB","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Gambia, The","field6":""},
-{"Country Code":"GNB","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Guinea-Bissau","field6":""},
-{"Country Code":"GNQ","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Equatorial Guinea","field6":""},
-{"Country Code":"GRC","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 340.75 Greek drachma. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Greece","field6":""},
-{"Country Code":"GRD","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Grenada","field6":""},
-{"Country Code":"GRL","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Greenland","field6":""},
-{"Country Code":"GTM","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Guatemala","field6":""},
-{"Country Code":"GUM","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"Guam","field6":""},
-{"Country Code":"GUY","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Guyana","field6":""},
-{"Country Code":"HIC","Region":"","IncomeGroup":"","SpecialNotes":"High income group aggregate. High-income economies are those in which 2017 GNI per capita was $12,055 or more.","TableName":"High income","field6":""},
-{"Country Code":"HKG","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China. Agriculture value added includes mining and quarrying.","TableName":"Hong Kong SAR, China","field6":""},
-{"Country Code":"HND","Region":"Latin America & Caribbean","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Honduras","field6":""},
-{"Country Code":"HPC","Region":"","IncomeGroup":"","SpecialNotes":"Heavily indebted poor countries aggregate.","TableName":"Heavily indebted poor countries (HIPC)","field6":""},
-{"Country Code":"HRV","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Croatia","field6":""},
-{"Country Code":"HTI","Region":"Latin America & Caribbean","IncomeGroup":"Low income","SpecialNotes":"Fiscal year end: September 30; reporting period for national accounts data: FY.","TableName":"Haiti","field6":""},
-{"Country Code":"HUN","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Hungary","field6":""},
-{"Country Code":"IBD","Region":"","IncomeGroup":"","SpecialNotes":"IBRD only group aggregate.","TableName":"IBRD only","field6":""},
-{"Country Code":"IBT","Region":"","IncomeGroup":"","SpecialNotes":"IDA and IBRD total group aggregate (includes IDA only, IDA blend, and IBRD only).","TableName":"IDA & IBRD total","field6":""},
-{"Country Code":"IDA","Region":"","IncomeGroup":"","SpecialNotes":"IDA total group aggregate (includes IDA only and IDA blend).","TableName":"IDA total","field6":""},
-{"Country Code":"IDB","Region":"","IncomeGroup":"","SpecialNotes":"IDA blend group aggregate.","TableName":"IDA blend","field6":""},
-{"Country Code":"IDN","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY. Data for Indonesia include Timor-Leste through 1999 unless otherwise noted.","TableName":"Indonesia","field6":""},
-{"Country Code":"IDX","Region":"","IncomeGroup":"","SpecialNotes":"IDA only group aggregate.","TableName":"IDA only","field6":""},
-{"Country Code":"IMN","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Isle of Man","field6":""},
-{"Country Code":"IND","Region":"South Asia","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: FY.","TableName":"India","field6":""},
-{"Country Code":"IRL","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 0.787564 Irish pound. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Ireland","field6":""},
-{"Country Code":"IRN","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year end: March 20; reporting period for national accounts data: FY.","TableName":"Iran, Islamic Rep.","field6":""},
-{"Country Code":"IRQ","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Iraq","field6":""},
-{"Country Code":"ISL","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Iceland","field6":""},
-{"Country Code":"ISR","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Israel","field6":""},
-{"Country Code":"ITA","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 1936.27 Italian lira. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Italy","field6":""},
-{"Country Code":"JAM","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Jamaica","field6":""},
-{"Country Code":"JOR","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Jordan","field6":""},
-{"Country Code":"JPN","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"Japan","field6":""},
-{"Country Code":"KAZ","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Kazakhstan","field6":""},
-{"Country Code":"KEN","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: CY.","TableName":"Kenya","field6":""},
-{"Country Code":"KGZ","Region":"Europe & Central Asia","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Kyrgyz Republic","field6":""},
-{"Country Code":"KHM","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Cambodia","field6":""},
-{"Country Code":"KIR","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Kiribati","field6":""},
-{"Country Code":"KNA","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"St. Kitts and Nevis","field6":""},
-{"Country Code":"KOR","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"Korea, Rep.","field6":""},
-{"Country Code":"KWT","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Kuwait","field6":""},
-{"Country Code":"LAC","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Latin America & Caribbean (excluding high income)","field6":""},
-{"Country Code":"LAO","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Lao PDR","field6":""},
-{"Country Code":"LBN","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Lebanon","field6":""},
-{"Country Code":"LBR","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"Pre-2000 data will be revised further for consistency and quality purpose.","TableName":"Liberia","field6":""},
-{"Country Code":"LBY","Region":"Middle East & North Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Libya","field6":""},
-{"Country Code":"LCA","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"St. Lucia","field6":""},
-{"Country Code":"LCN","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Latin America & Caribbean","field6":""},
-{"Country Code":"LDC","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Least developed countries: UN classification","field6":""},
-{"Country Code":"LIC","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Low income","field6":""},
-{"Country Code":"LIE","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Liechtenstein","field6":""},
-{"Country Code":"LKA","Region":"South Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Sri Lanka","field6":""},
-{"Country Code":"LMC","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Lower middle income","field6":""},
-{"Country Code":"LMY","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Low & middle income","field6":""},
-{"Country Code":"LSO","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"Lesotho","field6":""},
-{"Country Code":"LTE","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Late-demographic dividend","field6":""},
-{"Country Code":"LTU","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2015: 1 euro = 3.45280 Lithuanian litas. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. Based on data from EUROSTAT, the new reference year is 2010.","TableName":"Lithuania","field6":""},
-{"Country Code":"LUX","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Luxembourg franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Luxembourg","field6":""},
-{"Country Code":"LVA","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2014: 1 euro = 0.702804 Latvian lats. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. Based on data from EUROSTAT, the new reference year is 2010.","TableName":"Latvia","field6":""},
-{"Country Code":"MAC","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"On 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China.","TableName":"Macao SAR, China","field6":""},
-{"Country Code":"MAF","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"St. Martin (French part)","field6":""},
-{"Country Code":"MAR","Region":"Middle East & North Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Morocco","field6":""},
-{"Country Code":"MCO","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Monaco","field6":""},
-{"Country Code":"MDA","Region":"Europe & Central Asia","IncomeGroup":"Lower middle income","SpecialNotes":"Excluding Transnistria. For 1950-94, World Bank estimates using UN World Population Prospects' growth rates of whole Moldova.","TableName":"Moldova","field6":""},
-{"Country Code":"MDG","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Madagascar","field6":""},
-{"Country Code":"MDV","Region":"South Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Maldives","field6":""},
-{"Country Code":"MEA","Region":"","IncomeGroup":"","SpecialNotes":"Middle East and North Africa regional aggregate (includes all income levels).","TableName":"Middle East & North Africa","field6":""},
-{"Country Code":"MEX","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Mexico","field6":""},
-{"Country Code":"MHL","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year ends on September 30; reporting period for national accounts data: FY.","TableName":"Marshall Islands","field6":""},
-{"Country Code":"MIC","Region":"","IncomeGroup":"","SpecialNotes":"Middle income group aggregate. Middle-income economies are those in which 2017 GNI per capita was between $996 and $12,055.","TableName":"Middle income","field6":""},
-{"Country Code":"MKD","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"North Macedonia","field6":""},
-{"Country Code":"MLI","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Mali","field6":""},
-{"Country Code":"MLT","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.4293 Maltese lira. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. National accounts data source from 1995 to 2015 is Eurostat; prior to 1995 is UN. The new reference year is 2010.","TableName":"Malta","field6":""},
-{"Country Code":"MMR","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: FY.","TableName":"Myanmar","field6":""},
-{"Country Code":"MNA","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Middle East & North Africa (excluding high income)","field6":""},
-{"Country Code":"MNE","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators continue to include data for Montenegro through 2005.","TableName":"Montenegro","field6":""},
-{"Country Code":"MNG","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Mongolia","field6":""},
-{"Country Code":"MNP","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"Northern Mariana Islands","field6":""},
-{"Country Code":"MOZ","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Mozambique","field6":""},
-{"Country Code":"MRT","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"National account data were adjusted to reflect the new banknote (1 new ouguiya = 10 old ouguiya)","TableName":"Mauritania","field6":""}
-,
-{"Country Code":"MUS","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Mauritius","field6":""},
-{"Country Code":"MWI","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Malawi","field6":""},
-{"Country Code":"MYS","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Malaysia","field6":""},
-{"Country Code":"NAC","Region":"","IncomeGroup":"","SpecialNotes":"North America regional aggregate. There are no economies in North America classified as low or middle income.","TableName":"North America","field6":""},
-{"Country Code":"NAM","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"Namibia","field6":""},
-{"Country Code":"NCL","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"New Caledonia","field6":""},
-{"Country Code":"NER","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Niger","field6":""},
-{"Country Code":"NGA","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Nigeria","field6":""},
-{"Country Code":"NIC","Region":"Latin America & Caribbean","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Nicaragua","field6":""},
-{"Country Code":"NLD","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 2.20371 Netherlands guilder. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Netherlands","field6":""},
-{"Country Code":"NOR","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Norway","field6":""},
-{"Country Code":"NPL","Region":"South Asia","IncomeGroup":"Low income","SpecialNotes":"Fiscal year end: July 14; reporting period for national accounts data: FY.","TableName":"Nepal","field6":""},
-{"Country Code":"NRU","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Nauru","field6":""},
-{"Country Code":"NZL","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"New Zealand","field6":""},
-{"Country Code":"OED","Region":"","IncomeGroup":"","SpecialNotes":"Aggregations include Lithuania.","TableName":"OECD members","field6":""},
-{"Country Code":"OMN","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Oman","field6":""},
-{"Country Code":"OSS","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"Other small states","field6":""},
-{"Country Code":"PAK","Region":"South Asia","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Pakistan","field6":""},
-{"Country Code":"PAN","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Panama","field6":""},
-{"Country Code":"PER","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Peru","field6":""},
-{"Country Code":"PHL","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Philippines","field6":""},
-{"Country Code":"PLW","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"Fiscal year ends on September 30; reporting period for national accounts data: FY.","TableName":"Palau","field6":""},
-{"Country Code":"PNG","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Papua New Guinea","field6":""},
-{"Country Code":"POL","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"Poland","field6":""},
-{"Country Code":"PRE","Region":"","IncomeGroup":"","SpecialNotes":"Pre-dividend countries are mostly low-income countries, lagging in key human development indicators and with current fertility levels above four births per woman. They face very rapid population growth.","TableName":"Pre-demographic dividend","field6":""},
-{"Country Code":"PRI","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Puerto Rico","field6":""},
-{"Country Code":"PRK","Region":"East Asia & Pacific","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Korea, Dem. People's Rep.","field6":""},
-{"Country Code":"PRT","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Portugal","field6":""},
-{"Country Code":"PRY","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Paraguay","field6":""},
-{"Country Code":"PSE","Region":"Middle East & North Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"West Bank and Gaza","field6":""},
-{"Country Code":"PSS","Region":"","IncomeGroup":"","SpecialNotes":"Pacific island small states aggregate.","TableName":"Pacific island small states","field6":""},
-{"Country Code":"PST","Region":"","IncomeGroup":"","SpecialNotes":"Post-dividend countries are mostly high-income countries where fertility has transitioned below replacement levels.","TableName":"Post-demographic dividend","field6":""},
-{"Country Code":"PYF","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"","TableName":"French Polynesia","field6":""},
-{"Country Code":"QAT","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Qatar","field6":""},
-{"Country Code":"ROU","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Romania","field6":""},
-{"Country Code":"RUS","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Russian Federation","field6":""},
-{"Country Code":"RWA","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Rwanda","field6":""},
-{"Country Code":"SAS","Region":"","IncomeGroup":"","SpecialNotes":"","TableName":"South Asia","field6":""},
-{"Country Code":"SAU","Region":"Middle East & North Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Saudi Arabia","field6":""},
-{"Country Code":"SDN","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Sudan","field6":""},
-{"Country Code":"SEN","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Senegal","field6":""},
-{"Country Code":"SGP","Region":"East Asia & Pacific","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"Singapore","field6":""},
-{"Country Code":"SLB","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Solomon Islands","field6":""},
-{"Country Code":"SLE","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Sierra Leone","field6":""},
-{"Country Code":"SLV","Region":"Latin America & Caribbean","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"El Salvador","field6":""},
-{"Country Code":"SMR","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"","TableName":"San Marino","field6":""},
-{"Country Code":"SOM","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Somalia","field6":""},
-{"Country Code":"SRB","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators, such as those series for which data appear only for Serbia and not Montenegro--e.g., aid, environment, external debt, balance of payments, various social indicators excluding population--continue to include data for Montenegro through 2005. Moreover, data from 1999 onward for Serbia for most indicators exclude data for Kosovo, 1999 being the year when Kosovo became a territory under international administration pursuant to UN Security Council Resolution 1244 (1999); any exceptions are noted. Kosovo became a World Bank member on June 29, 2009; available data are shown separately for Kosovo. In 2011, the Statistical Office of Serbia improved the methodology of national accounts data for 2003 onward. Specifically, the classification of sectors was revised.","TableName":"Serbia","field6":""},
-{"Country Code":"SSA","Region":"","IncomeGroup":"","SpecialNotes":"Sub-Saharan Africa regional aggregate (does not include high-income economies).","TableName":"Sub-Saharan Africa (excluding high income)","field6":""},
-{"Country Code":"SSD","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"South Sudan","field6":""},
-{"Country Code":"SSF","Region":"","IncomeGroup":"","SpecialNotes":"Sub-Saharan Africa regional aggregate (includes all income levels).","TableName":"Sub-Saharan Africa","field6":""},
-{"Country Code":"SST","Region":"","IncomeGroup":"","SpecialNotes":"Small states aggregate. Includes 41 members of the Small States Forum.","TableName":"Small states","field6":""},
-{"Country Code":"STP","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"National account data were adjusted to reflect the new banknote (1 new Dobra STN = 1000 old Dobra STD)","TableName":"São Tomé and Principe","field6":""}
-,
-{"Country Code":"SUR","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Suriname","field6":""},
-{"Country Code":"SVK","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2009: 1 euro = 30.126 Slovak koruna. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Slovak Republic","field6":""},
-{"Country Code":"SVN","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2007: 1 euro = 239.64 Slovenian tolar. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries.","TableName":"Slovenia","field6":""},
-{"Country Code":"SWE","Region":"Europe & Central Asia","IncomeGroup":"High income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: CY.","TableName":"Sweden","field6":""},
-{"Country Code":"SWZ","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY. Authorities revised national accounts from 1999 to 2015.","TableName":"Eswatini","field6":""},
-{"Country Code":"SXM","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Sint Maarten (Dutch part)","field6":""},
-{"Country Code":"SYC","Region":"Sub-Saharan Africa","IncomeGroup":"High income","SpecialNotes":"","TableName":"Seychelles","field6":""},
-{"Country Code":"SYR","Region":"Middle East & North Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Syrian Arab Republic","field6":""},
-{"Country Code":"TCA","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Turks and Caicos Islands","field6":""},
-{"Country Code":"TCD","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Chad","field6":""},
-{"Country Code":"TEA","Region":"","IncomeGroup":"","SpecialNotes":"East Asia & Pacific (IDA & IBRD countries) aggregate.","TableName":"East Asia & Pacific (IDA & IBRD)","field6":""},
-{"Country Code":"TEC","Region":"","IncomeGroup":"","SpecialNotes":"Europe & Central Asia (IDA & IBRD countries) aggregate.","TableName":"Europe & Central Asia (IDA & IBRD)","field6":""},
-{"Country Code":"TGO","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Togo","field6":""},
-{"Country Code":"THA","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year end: September 30; reporting period for national accounts data: CY.","TableName":"Thailand","field6":""},
-{"Country Code":"TJK","Region":"Europe & Central Asia","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Tajikistan","field6":""},
-{"Country Code":"TKM","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Turkmenistan","field6":""},
-{"Country Code":"TLA","Region":"","IncomeGroup":"","SpecialNotes":"Latin America & the Caribbean (IDA & IBRD countries) aggregate.","TableName":"Latin America & Caribbean (IDA & IBRD)","field6":""},
-{"Country Code":"TLS","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Timor-Leste","field6":""},
-{"Country Code":"TMN","Region":"","IncomeGroup":"","SpecialNotes":"Middle East & North Africa (IDA & IBRD countries) aggregate.","TableName":"Middle East & North Africa (IDA & IBRD)","field6":""},
-{"Country Code":"TON","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Tonga","field6":""},
-{"Country Code":"TSA","Region":"","IncomeGroup":"","SpecialNotes":"South Asia (IDA & IBRD countries) aggregate.","TableName":"South Asia (IDA & IBRD)","field6":""},
-{"Country Code":"TSS","Region":"","IncomeGroup":"","SpecialNotes":"Sub-Saharan Africa (IDA & IBRD countries) aggregate.","TableName":"Sub-Saharan Africa (IDA & IBRD)","field6":""},
-{"Country Code":"TTO","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Trinidad and Tobago","field6":""},
-{"Country Code":"TUN","Region":"Middle East & North Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Tunisia","field6":""},
-{"Country Code":"TUR","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Turkey","field6":""},
-{"Country Code":"TUV","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Tuvalu","field6":""},
-{"Country Code":"TZA","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Tanzania","field6":""},
-{"Country Code":"UGA","Region":"Sub-Saharan Africa","IncomeGroup":"Low income","SpecialNotes":"Fiscal year end: June 30; reporting period for national accounts data: FY.","TableName":"Uganda","field6":""},
-{"Country Code":"UKR","Region":"Europe & Central Asia","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Ukraine","field6":""},
-{"Country Code":"UMC","Region":"","IncomeGroup":"","SpecialNotes":"Upper middle income group aggregate. Upper-middle-income economies are those in which 2017 GNI per capita was between $3,896 and $12,055.","TableName":"Upper middle income","field6":""},
-{"Country Code":"URY","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Uruguay","field6":""},
-{"Country Code":"USA","Region":"North America","IncomeGroup":"High income","SpecialNotes":"","TableName":"United States","field6":""},
-{"Country Code":"UZB","Region":"Europe & Central Asia","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Uzbekistan","field6":""},
-{"Country Code":"VCT","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"St. Vincent and the Grenadines","field6":""},
-{"Country Code":"VEN","Region":"Latin America & Caribbean","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Venezuela, RB","field6":""},
-{"Country Code":"VGB","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"British Virgin Islands","field6":""},
-{"Country Code":"VIR","Region":"Latin America & Caribbean","IncomeGroup":"High income","SpecialNotes":"","TableName":"Virgin Islands (U.S.)","field6":""},
-{"Country Code":"VNM","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Vietnam","field6":""},
-{"Country Code":"VUT","Region":"East Asia & Pacific","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Vanuatu","field6":""},
-{"Country Code":"WLD","Region":"","IncomeGroup":"","SpecialNotes":"World aggregate.","TableName":"World","field6":""},
-{"Country Code":"WSM","Region":"East Asia & Pacific","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year ends on June 30; reporting period for national accounts data: FY.","TableName":"Samoa","field6":""},
-{"Country Code":"XKX","Region":"Europe & Central Asia","IncomeGroup":"Upper middle income","SpecialNotes":"","TableName":"Kosovo","field6":""},
-{"Country Code":"YEM","Region":"Middle East & North Africa","IncomeGroup":"Low income","SpecialNotes":"","TableName":"Yemen, Rep.","field6":""},
-{"Country Code":"ZAF","Region":"Sub-Saharan Africa","IncomeGroup":"Upper middle income","SpecialNotes":"Fiscal year end: March 31; reporting period for national accounts data: CY.","TableName":"South Africa","field6":""},
-{"Country Code":"ZMB","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"National accounts data were rebased to reflect the January 1, 2013, introduction of the new Zambian kwacha at a rate of 1,000 old kwacha = 1 new kwacha.","TableName":"Zambia","field6":""},
-{"Country Code":"ZWE","Region":"Sub-Saharan Africa","IncomeGroup":"Lower middle income","SpecialNotes":"","TableName":"Zimbabwe","field6":""}
-]
