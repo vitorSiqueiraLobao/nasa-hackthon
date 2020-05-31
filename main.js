@@ -1,15 +1,3 @@
-/**
- * --------------------------------------------------------
- * This demo was created using amCharts V4 preview release.
- *
- * V4 is the latest installement in amCharts data viz
- * library family, to be released in the first half of
- * 2018.
- *
- * For more information and documentation visit:
- * https://www.amcharts.com/docs/v4/
- * --------------------------------------------------------
- */
 
 // Create map instance
 var chart = am4core.create("chartdiv", am4maps.MapChart);
@@ -34,26 +22,111 @@ polygonSeries.useGeodata = true;
 // Configure series
 var polygonTemplate = polygonSeries.mapPolygons.template;
 polygonTemplate.tooltipText = "{name}";
-polygonTemplate.fill = am4core.color("#74B266");
+polygonTemplate.fill = am4core.color("yellow");
 
 
-let i = 0
-$.getJSON("metadados.json", function(data){
-   data.forEach(function(dataJson,index){
-      for(let j = 256;j > 0;j--){
-         if(chart.geodata.features[j].properties.name == dataJson.TableName){
-            i++
-            console.log(i)
-         }
-      }  
+let names = []
+let nomes = []
 
-   })
+chart.geodata.features.forEach(element => {
+   names.push(element.properties.name)
+});
+
+
+names.sort(function(a,b){
+   if(a<b)return -1
+   if(a>b)return 1
+   return 0
 })
-console.log(i)
 
 
 
+$.getJSON('dadoscertoscertos.json',function(data){
+      data.forEach(function(data2){
+         nomes.push(data2.Country.Region)
+   })
+}).then((data)=>{
+   nomes.sort(function(a,b){
+      if(a<b)return -1
+      if(a>b)return 1
+      return 0
+   })
+   //console.log(nomes)
 
+   console.log(nomes)
+
+   nomes = [ ...new Set(nomes)]
+   //console.log(data)
+   console.log("nomes")
+   console.log(nomes)
+   desenhaCasos(nomes,data)
+   
+})
+
+let desenhaCasos = (nomes,data) =>{
+   
+      //10k mortos  - 255
+      // 1  - x
+      //mortes  * 0,0255 = cor
+      //235
+
+
+   let vetorPaises = []
+
+   nomes.forEach((nome)=>{
+      let idNovo
+      let valor
+      let nomeNovo
+      for(let i = 0; i < 257;i++){
+         if(nome == chart.geodata.features[i].properties.name){
+            idNovo = chart.geodata.features[i].properties.id
+            nomeNovo = nome
+            if(nome == "China"){
+               console.log("AAAAAAAAAAAAAIDS")
+            }
+         }
+
+      }
+      for(let i = 0; i <data.length;i++){
+         if(nome == data[i].Country.Region){
+            valor = data[i].Deaths
+            beg = 255 - Math.round(data[i].Deaths*0.0255)
+            if(beg < 0){
+               beg = 0
+            }
+            cor = 'rgb(255,'+beg+','+beg+')'
+         }
+      }
+      vetorPaises.push({
+         "id":idNovo,
+         "name": nomeNovo,
+         "value": valor,
+         "fill":am4core.color(cor),
+         "cor" : cor
+      })
+      
+   })
+   
+   polygonSeries.data = vetorPaises
+   polygonTemplate.propertyFields.fill = 'fill';
+   console.log(cor)
+   vetorPaises.forEach((pinto)=>{
+      if(pinto.name == "China"){
+         console.log("MEU PINTAÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃO")
+         console.log(pinto)
+      }
+   })
+   console.log("data")
+   console.log(data)
+   console.log("vetorPaises")
+   console.log(vetorPaises)
+   console.log(nomes)
+   console.log(chart.geodata.features)
+   
+   
+   
+   //return vetorPaises
+}
 
 
 
@@ -63,7 +136,7 @@ hs.properties.fill = am4core.color("#367B25");
 
 var graticuleSeries = chart.series.push(new am4maps.GraticuleSeries());
 graticuleSeries.mapLines.template.line.stroke = am4core.color("#67b7dc");
-graticuleSeries.mapLines.template.line.strokeOpacity = 1;
+graticuleSeries.mapLines.template.line.strokeOpacity = 0;
 graticuleSeries.fitExtent = false;
 
 chart.backgroundSeries.mapPolygons.template.polygon.fill = am4core.color("#aadaff");

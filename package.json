@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/vitorSiqueiraLobao/nasa-hackthon#readme",
   "dependencies": {
-    "@amcharts/amcharts4-geodata": "^4.1.15"
+    "@amcharts/amcharts4-geodata": "^4.1.15",
+    "csv": "^3.1.0",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^3.1.0"
   }
 }
